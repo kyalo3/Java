@@ -1,6 +1,5 @@
 /**
- * This program demonstrates the usage of arrays in Java.
- * It creates an array of size 12 to store integer values.
+ * An array of size 12 to store integer values.
  * The user is prompted to enter 12 different values using a while loop.
  * Finally, a for loop is used to display all the elements of the array.
  */
