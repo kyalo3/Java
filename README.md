@@ -46,18 +46,6 @@ Dynamic Programming: Solutions to popular dynamic programming problems.
 Greedy Algorithms: Step-by-step greedy problem-solving techniques.
 
 # How to Run
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/Java-DSA.git
-cd Java
-Compile the Java files:
-
-bash
-Copy code
-javac path_to_your_file.java
-Run the desired class:
 # java ClassName
 
 Contributing
